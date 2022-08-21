@@ -1,4 +1,4 @@
-image: Ubuntu 20.04 LTS (Focal Fossa)  # образ для сборки
+image: Ubuntu # образ для сборки
 
 stack: node 18  # окружение
 
